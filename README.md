@@ -19,7 +19,7 @@ It was created as part of the HMCTS Developer Challenge to demonstrate REST API 
 ```bash
 cd backend
 npm install
-
+```
 ---
 
 ## 📌 Known Issues & Next Steps
